@@ -13,7 +13,7 @@ values ('What is the address and phone number of the restaurant?',	'Srirengam Ho
 ('What are your best selling items in the dessert category?',	'Customers love our Gulab Jamun, Rasmalai, and Mango Kulfi.'),
 ('What are your best selling items in the drinks category?',	'Our signature drinks include Mango Lassi, Masala Chai, and Badam Milk.'),
 ('What is/are your house special items?',	'Our house specials include Srirengam Special Thali, Chettinad Chicken Curry, and Ghee Roast Dosa.'),
-("What is the deal of this day or week?",	"Today's deal: Buy one Masala Dosa, get one free! Available from 3:00 PM to 6:00 PM."),
+('What is the deal of this day or week?',	'Today''s deal: Buy one Masala Dosa, get one free! Available from 3:00 PM to 6:00 PM.'),
 ('Do you have any happy hours?',	'Yes, we offer happy hours from 3:00 PM to 6:00 PM with discounts on select appetizers and drinks.'),
 ('Do you offer catering service and if yes, can I have more details on it?',	'Yes, we provide catering services for parties and corporate events. Please contact us at +1-972-555-5678 for details.'),
 ('What are your breakfast hours?',	'Breakfast is served from 8:00 AM to 11:00 AM.'),
